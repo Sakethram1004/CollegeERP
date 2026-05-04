@@ -1,0 +1,11 @@
+id,name,dept,year,batch,gender,dob,phone,email,status,cgpa,fee_status,fees_paid,fees_due,transport,guardian,address
+S001,Arjun Mehta,CSE,3,2022,Male,2002-04-15,9876543210,arjun@uni.ac.in,Active,8.7,Paid,125000,0,Route A,Suresh Mehta,"12A MG Road, Bengaluru"
+S002,Priya Sharma,ECE,2,2023,Female,2003-07-22,9876543211,priya@uni.ac.in,Active,9.1,Paid,125000,0,Route B,Rajan Sharma,"45 Koramangala, Bengaluru"
+S003,Rahul Verma,ME,4,2021,Male,2001-01-10,9876543212,rahul@uni.ac.in,Active,7.5,Pending,62500,62500,Own,Anil Verma,"7 BTM Layout, Bengaluru"
+S004,Sneha Patel,CSE,1,2024,Female,2004-11-03,9876543213,sneha@uni.ac.in,Active,8.2,Paid,125000,0,Route A,Kiran Patel,"23 Whitefield, Bengaluru"
+S005,Karan Singh,EEE,3,2022,Male,2002-06-18,9876543214,karan@uni.ac.in,Inactive,6.9,Overdue,50000,75000,Route C,Harjit Singh,"56 Marathahalli, Bengaluru"
+S006,Divya Nair,IT,2,2023,Female,2003-09-25,9876543215,divya@uni.ac.in,Active,9.4,Paid,125000,0,Route B,Suresh Nair,"8 Electronic City, Bengaluru"
+S007,Amit Joshi,CE,3,2022,Male,2002-03-11,9876543216,amit@uni.ac.in,Active,7.8,Paid,125000,0,Route D,Mohan Joshi,"34 JP Nagar, Bengaluru"
+S008,Riya Menon,CSE,4,2021,Female,2001-12-05,9876543217,riya@uni.ac.in,Active,8.9,Paid,125000,0,Own,Thomas Menon,"90 Indiranagar, Bengaluru"
+S009,Vikram Reddy,CSE,2,2023,Male,2003-05-20,9876543218,vikram@uni.ac.in,Active,7.3,Pending,60000,65000,Route A,Suresh Reddy,"15 Banjara Hills, Hyderabad"
+S010,Pooja Desai,ECE,1,2024,Female,2005-02-14,9876543219,pooja@uni.ac.in,Active,8.5,Paid,125000,0,Route B,Mahesh Desai,"22 Jubilee Hills, Hyderabad"

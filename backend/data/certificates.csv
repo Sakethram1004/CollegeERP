@@ -1,0 +1,6 @@
+id,type,student,date,status,verif
+C001,Degree Certificate,Arjun Mehta,2024-05-20,Issued,VER-2024-001
+C002,Provisional Certificate,Priya Sharma,2024-06-01,Issued,VER-2024-002
+C003,Bonafide Certificate,Rahul Verma,2024-07-10,Issued,VER-2024-003
+C004,Transcript,Sneha Patel,2024-07-15,Pending,—
+C005,Migration Certificate,Karan Singh,2024-08-01,Issued,VER-2024-005

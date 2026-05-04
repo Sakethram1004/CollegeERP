@@ -1,0 +1,16 @@
+id,year,dept,students,mentor
+B001,2020,CSE,120,Dr. Ramesh Kumar
+B002,2020,ECE,95,Dr. Sunita Rao
+B003,2020,ME,80,Dr. Vijay Patil
+B004,2021,CSE,130,Prof. Anita Das
+B005,2021,EEE,85,Dr. Pradeep Gupta
+B006,2021,IT,70,Dr. Meena Iyer
+B007,2022,CSE,140,Dr. Ramesh Kumar
+B008,2022,ECE,100,Dr. Sunita Rao
+B009,2022,CE,75,Dr. Anil Mishra
+B010,2023,CSE,150,Prof. Anita Das
+B011,2023,IT,80,Dr. Meena Iyer
+B012,2023,EEE,90,Dr. Pradeep Gupta
+B013,2024,CSE,160,Dr. Ramesh Kumar
+B014,2024,ECE,110,Dr. Sunita Rao
+B015,2024,ME,85,Dr. Vijay Patil

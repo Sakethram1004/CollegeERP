@@ -1,0 +1,16 @@
+id,cat,item,status,note
+AC001,Infrastructure,Carpet area per student ≥ 1.5 sq.m,ok,Current: 2.1 sq.m
+AC002,Infrastructure,Computer lab ratio 1:2 (student:system),ok,Ratio: 1:1.8
+AC003,Infrastructure,Library with ≥ 2000 titles/dept,ok,"14,200 titles"
+AC004,Faculty,Faculty:Student ratio ≤ 1:15,warn,Current 1:18 — action needed
+AC005,Faculty,≥ 60% Ph.D. qualified faculty,ok,67% Ph.D.
+AC006,Faculty,Faculty vacancies ≤ 10%,ok,4% vacant
+AC007,Finances,Endowment fund ≥ ₹5 Cr,ok,₹8.2 Cr
+AC008,Finances,Fee refund policy displayed,ok,Published on website
+AC009,Academics,Outcome Based Education (OBE) implemented,ok,All programs
+AC010,Academics,NBA/NAAC accreditation current,warn,NAAC expires Mar 2025
+AC011,Academics,Scopus/SCI publications,ok,62 papers (2024)
+AC012,Compliance,Anti-ragging committee active,ok,Constituted Jun 2024
+AC013,Compliance,Grievance redressal cell functional,ok,Online portal active
+AC014,Compliance,IQAC active,ok,Minutes updated quarterly
+AC015,Compliance,Annual reports submitted to AICTE portal,warn,2023-24 pending upload

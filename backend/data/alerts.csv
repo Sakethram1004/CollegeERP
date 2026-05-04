@@ -1,0 +1,4 @@
+id,title,message,type,date
+ALR001,NAAC Accreditation Expiring,NAAC accreditation expires March 2025 — renewal process must begin immediately.,warn,2025-01-10
+ALR002,AICTE Annual Report Pending,2023-24 annual report has not been uploaded to the AICTE portal.,warn,2025-01-12
+ALR003,Faculty:Student Ratio,"Current ratio is 1:18, exceeding AICTE norm of 1:15. Recruitment needed.",warn,2025-01-15

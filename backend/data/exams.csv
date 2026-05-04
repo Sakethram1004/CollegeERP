@@ -1,0 +1,7 @@
+id,name,dept,type,date,status,total,hall_tickets
+E001,End Semester — Nov 2024,All,Semester,2024-11-18,Completed,1850,true
+E002,Mid Semester — Sept 2024,All,Mid Term,2024-09-10,Completed,1850,true
+E003,Supplementary — Dec 2024,All,Supplementary,2024-12-05,Completed,140,true
+E004,Internal Assessment — Jan 2025,CSE,Internal,2025-01-15,Upcoming,480,false
+E005,End Semester — May 2025,All,Semester,2025-05-12,Scheduled,1850,false
+E006,Practical Exam — Feb 2025,CSE,Practical,2025-02-20,Scheduled,480,false

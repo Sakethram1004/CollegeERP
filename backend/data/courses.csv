@@ -1,0 +1,9 @@
+code,name,dept,credits,type,faculty,sem,students,syllabus
+CS601,Machine Learning,CSE,4,Core,Dr. Ramesh Kumar,6,120,"ML algorithms, Neural networks, Deep learning"
+CS502,Database Systems,CSE,3,Core,Prof. Anita Das,5,115,"SQL, NoSQL, ACID, Normalization"
+EC401,VLSI Design,ECE,4,Core,Dr. Sunita Rao,7,88,"CMOS design, Layout, RTL synthesis"
+ME301,Fluid Mechanics,ME,3,Core,Dr. Vijay Patil,3,98,"Bernoulli, Reynolds, Pipe flow"
+CS701,Cloud Computing,CSE,3,Elective,Prof. Anita Das,7,75,"AWS, Azure, Docker, K8s"
+HS101,Engineering Ethics,HUM,2,Mandatory,Dr. Priya Mohan,1,480,"Professional responsibility, IPR"
+IT401,Web Technologies,IT,3,Core,Dr. Meena Iyer,4,62,"HTML5, CSS3, React, Node.js"
+EE501,Power Systems,EEE,4,Core,Prof. Kiran Nair,5,78,"Load flow, Fault analysis"

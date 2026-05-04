@@ -1,0 +1,10 @@
+id,name,dept,role,type,qual,exp,publications,status,email,phone
+T001,Dr. Ramesh Kumar,CSE,Professor & HoD,Teaching,Ph.D.,22,34,Active,ramesh@uni.ac.in,9811000001
+T002,Prof. Anita Das,CSE,Associate Professor,Teaching,M.Tech,14,12,Active,anita@uni.ac.in,9811000002
+T003,Dr. Sunita Rao,ECE,Professor & HoD,Teaching,Ph.D.,19,28,Active,sunita@uni.ac.in,9811000003
+T004,Dr. Vijay Patil,ME,Professor & HoD,Teaching,Ph.D.,17,21,Active,vijay@uni.ac.in,9811000004
+T005,Dr. Meena Iyer,IT,Professor & HoD,Teaching,Ph.D.,15,18,Active,meena@uni.ac.in,9811000005
+T006,Prof. Kiran Nair,EEE,Assistant Professor,Teaching,M.Tech,8,6,Active,kiran@uni.ac.in,9811000006
+S001,Rajesh Nair,ADM,Registrar,Support,MBA,12,0,Active,reg@uni.ac.in,9811000007
+S002,Kavitha M.,LIB,Chief Librarian,Support,MLIS,9,2,Active,lib@uni.ac.in,9811000008
+S003,Suresh P.,IT,System Admin,Support,B.Tech,7,0,Active,it@uni.ac.in,9811000009

@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/*.pyc
+
+# Local database/runtime files
+backend/erp_university.db
+backend/erp_university.db-*
+backend/uploads/
+backend/backups/
+
+# Environment files
+.env
+backend/.env
+college-erp/.env
+
+# Node/Vite
+college-erp/node_modules/
+college-erp/dist/
+
+# Local generated/private outputs
+outputs/
+COST_ESTIMATION_AND_QUOTE.md

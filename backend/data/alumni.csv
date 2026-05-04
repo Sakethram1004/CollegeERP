@@ -1,0 +1,6 @@
+id,name,dept,batch,phone,email,company,role,cgpa,message
+AL001,Aditya Kumar,CSE,2020,9900001111,aditya.k@gmail.com,Google,Software Engineer,9.1,Great institution!
+AL002,Meera Pillai,ECE,2019,9900002222,meera.p@outlook.com,Qualcomm,VLSI Design Engineer,8.7,Top-notch labs.
+AL003,Rohan Sharma,ME,2020,9900003333,rohan.s@yahoo.com,Tata Motors,Design Engineer,7.9,Practical exposure was excellent.
+AL004,Kavya Nair,IT,2021,9900004444,kavya.n@gmail.com,Infosys,Senior Analyst,8.4,Faculty support was amazing.
+AL005,Sanjay Gupta,EEE,2019,9900005555,sanjay.g@hotmail.com,L&T,Electrical Engineer,7.6,Proud alumnus!

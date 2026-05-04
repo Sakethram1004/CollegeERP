@@ -1,0 +1,15 @@
+id,type,amount,freq,due_date,collected,pending
+F001,Tuition Fee,125000,Annual,2024-07-31,118750,6250
+F002,Hostel Fee,65000,Annual,2024-07-31,58500,6500
+F003,Transport Fee,18000,Annual,2024-07-31,16200,1800
+F004,Lab Fee,8000,Semester,2024-08-15,7600,400
+F005,Exam Fee,2500,Semester,2024-10-01,2400,100
+F006,Library Fee,2500,Annual,2024-07-31,0,0
+F007,Sports Fee,1500,Annual,2024-07-31,0,0
+F008,Development Fee,5000,Annual,2024-07-31,0,0
+F009,Admission Fee,10000,One-time,2024-07-31,0,0
+F010,Alumni Fee,2000,One-time,2024-07-31,0,0
+F011,Medical Fee,1000,Annual,2024-07-31,0,0
+F012,Placement Fee,5000,One-time,2024-12-31,0,0
+F013,IT Infrastructure Fee,3000,Annual,2024-07-31,0,0
+F014,Miscellaneous Fee,500,Annual,2024-07-31,0,0
